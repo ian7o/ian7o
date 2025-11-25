@@ -11,10 +11,10 @@
 **E-mail:** `iansw.stank@gmail.com`
 
 ## 💻 Tecnologias e linguagens 
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,nodejs,js,typescript,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,nodejs,js,typescript,docker,mysql,postgres)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,apollo,react,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,apollo,react)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github )](https://skillicons.dev)
