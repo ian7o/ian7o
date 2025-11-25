@@ -11,7 +11,7 @@
 **E-mail:** `iansw.stank@gmail.com`
 
 ## 💻 Tecnologias e linguagens 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,c,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js,nodejs,docker)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=spring,react,nestjs,mysql,postgres)](https://skillicons.dev)
