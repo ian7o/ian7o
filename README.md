@@ -1,16 +1,20 @@
-## Hi there 👋
+#  Meu nome é Ian seja Bem-vindo(a) ao meu perfil!
 
-<!--
-**ian7o/ian7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Realizando um CTeSP em Sistemas de Informação e Tecnologias de Programação no IPCA.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+-  ✔ Fun fact: Adoro um humor negro e desportos ao ar livre.
 
-Here are some ideas to get you started:
+ ## 🌐 Conecte-se comigo
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ian-swerts )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**E-mail:** `iansw.stank@gmail.com`
+
+## 💻 Tecnologias e linguagens 
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,c,docker)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nestjs,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github )](https://skillicons.dev)
